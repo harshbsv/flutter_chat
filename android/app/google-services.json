@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949469685971",
+    "firebase_url": "https://flutterdeployer.firebaseio.com",
+    "project_id": "flutterdeployer",
+    "storage_bucket": "flutterdeployer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949469685971:android:836ca0287392103ac9cc26",
+        "android_client_info": {
+          "package_name": "com.harsholo.flutterchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949469685971-ib4n6ijkpbeq3rjsvcuttf8h9n32ukl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsholo.flutterchat",
+            "certificate_hash": "997902dd2044007b2e61397443249af261c944d4"
+          }
+        },
+        {
+          "client_id": "949469685971-3tla15c343bpn33ufle0ioi43lujou36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2q0fSJhoJ8BEEF-WXIb5-HLIguz_BjOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949469685971-3tla15c343bpn33ufle0ioi43lujou36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
