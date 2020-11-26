@@ -1,6 +1,6 @@
 # flutterchat
 
-A new Flutter project.
+This is a simple Chat application, built in Flutter. Uses Google Sign-in to authenticate user and lets them chat with their added contacts. This is a bare-bones chat app. At the moment, the users can only interact with each other using text messaging.
 
 ## Getting Started
 
